@@ -15,6 +15,7 @@
 	<link rel="stylesheet" href="home.min.css">
 
 	<!-- LIB -->
+	<!-- <script type="text/javascript" src="https://use.fontawesome.com/a5176dbf70.js"></script> -->
 	<!-- // <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script> -->
 	<!-- // <script type="text/javascript" src="../common/js/jquery-2.1.1.min.js"></script> -->
 	<!-- // <script type="text/javascript" src="../common/js/jquery-ui-1.11.4.js"></script> -->
