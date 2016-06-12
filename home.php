@@ -8,23 +8,24 @@
 	<!-- FAVICON -->
 	<!-- <link rel="icon" href="favicon.ico"> -->
 
-	<!-- BOOTSTRAP RESPONSIVE -->
+	<!-- RESPONSIVE -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 	<!-- CSS -->
-	<link rel="stylesheet" href="home.min.css">
+	<link rel="stylesheet" href="css/home.min.css">
 
 	<!-- LIB -->
-	<!-- <script type="text/javascript" src="https://use.fontawesome.com/a5176dbf70.js"></script> -->
-	<!-- // <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script> -->
-	<!-- // <script type="text/javascript" src="../common/js/jquery-2.1.1.min.js"></script> -->
-	<!-- // <script type="text/javascript" src="../common/js/jquery-ui-1.11.4.js"></script> -->
-	<!-- // <script type="text/javascript" src="../common/js/svg_img.js"></script> -->
-	<!-- // <script type="text/javascript" src="../common/js/bootstrap-full.min.js"></script> -->
+	<!-- <script src="common/js/lib/font-awesome.js"></script> -->
+	<!-- <script src="https://use.fontawesome.com/a5176dbf70.js"></script> -->
+	<!-- // <script src="http://code.jquery.com/jquery-latest.js"></script> -->
+	<!-- // <script src="../common/js/jquery-2.1.1.min.js"></script> -->
+	<!-- // <script src="../common/js/jquery-ui-1.11.4.js"></script> -->
+	<!-- // <script src="../common/js/svg_img.js"></script> -->
+	<!-- // <script src="../common/js/bootstrap-full.min.js"></script> -->
 
 	<!-- JS -->
-	<script type="text/javascript" src="common/js/common.js"></script>
-	<script type="text/javascript" src="home.js"></script>
+	<script src="common/js/common.js"></script>
+	<script src="home.js"></script>
 </head>
 <body>
 	
